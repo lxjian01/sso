@@ -1,0 +1,5 @@
+.git
+.idea
+distribute
+config/test/*
+config/prod/*
